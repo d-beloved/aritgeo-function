@@ -1,0 +1,32 @@
+{
+  "name": "aritgeo-function",
+  "version": "1.0.0",
+  "description": "A function to determine if A sequence of number is an Arithmetic \u001b[C\u001b[C\u001b[C\u001b[C\u001b[Dprogression or geometric progression",
+  "main": "src/aritGeo.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha test/test.js\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Ds\u001b[F\u001b[D\u001b[D\u001b[D\u001b[F\u001b[B\u001b[B\u001b[B\u001b[F\u001b[B\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D/test.js",
+    "test:watch": "npm run test -- --watch"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d-beloved/aritgeo-function.git"
+  },
+  "keywords": [
+    "TDD",
+    "Javascript"
+  ],
+  "author": "Ayodeji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d-beloved/aritgeo-function/issues"
+  },
+  "homepage": "https://github.com/d-beloved/aritgeo-function#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
+  }
+}
